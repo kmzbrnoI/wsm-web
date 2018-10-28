@@ -19,7 +19,7 @@
 
     <meta name="description" content="{{ description }}">
 
-    <link rel="shortcut icon" href="{{ site.favicon | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ site.favicon | prepend: site.baseurl_root }}" type="image/x-icon">
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl }}" />
 
@@ -49,7 +49,7 @@
     <script src="https://use.fontawesome.com/1f5f360d80.js"></script>
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet">
 
-    <link href="{{ '/assets/css/style.css' | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ '/assets/css/style.css' | prepend: site.baseurl_root }}" rel="stylesheet">
 </head>
 <body>
 
@@ -57,7 +57,7 @@
     <div class="inner clearfix">
         {% if site.avatar %}
         <a href="{{ '/' | prepend: site.baseurl }}">
-            <img class="avatar" src="{{ site.avatar | prepend: site.baseurl }}" alt=""/>
+            <img class="avatar" src="{{ site.avatar | prepend: site.baseurl_root }}" alt=""/>
         </a>
         {% endif %}
         <h1 class="clearfix">
@@ -97,8 +97,7 @@
 </footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="{{ '/assets/lib/garand-sticky/jquery.sticky.js' | prepend: site.baseurl }}"></script>
-<script src="{{ '/assets/js/script.js' | prepend: site.baseurl }}"></script>
+<script src="{{ '/assets/js/script.js' | prepend: site.baseurl_root }}"></script>
 
 </body>
 </html>

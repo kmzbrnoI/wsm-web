@@ -6,10 +6,10 @@ title: WSM
 description: A Wireless Speedometer
 # avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
-language: en
 author: Jan Horáček
 keywords: speed,meter,measure,model,train
 robots: index,follow
+baseurl: ""
 
 #
 # Icons
@@ -47,10 +47,10 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-multiple-languages-plugin
 
-#
-# Styles: see "_sass/base/_variables.scss"
-#
+languages: ["en", "cz"]
+exclude_from_localizations: ["assets"]
 
 #
 # !! Danger zone !!
