@@ -1,0 +1,78 @@
+#
+# Basic settings.
+#
+url: https://wsm.kmz-brno.cz/
+title: WSM
+description: A Wireless Speedometer
+# avatar: /assets/img/ogp.png
+# favicon: /favicon.ico
+language: en
+author: Jan Horáček
+keywords: speed,meter,measure,model,train
+robots: index,follow
+
+#
+# Icons
+#
+icons:
+  rss: false
+  email: jan.horacek@kmz-brno.cz
+  github: kmzbrnoI
+  bitbucket:
+  twitter:
+  facebook: kmzbrnoI
+  google_plus:
+  tumblr:
+  behance:
+  dribbble:
+  flickr:
+  instagram:
+  linkedin: # full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange: # full URL
+  steam:
+  wordpress:
+  youtube:
+
+#
+# Prettify url.
+#
+permalink: pretty
+
+#
+# Plugins.
+#
+plugins:
+  - jekyll-paginate
+  - jemoji
+
+#
+# Styles: see "_sass/base/_variables.scss"
+#
+
+#
+# !! Danger zone !!
+#
+
+include: ["_pages"]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+  style: :compressed # or :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
+  - Makefile
