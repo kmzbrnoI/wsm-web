@@ -7,7 +7,7 @@ Wsm – A Wireless Speedmeter is a model railroad car which measures speed of a
 train and transmits it via Bluetooth. It is fully opensource and openhardware.
 This page contains basic info about the project.
 
-![Photo of a WSM](/assets/wsm-3d.jpg)
+![Photo of a WSM](/assets/img/wsm-3d.jpg)
 *Photo of a WSM.*
 
 ## Features
