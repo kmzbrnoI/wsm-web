@@ -4,8 +4,8 @@
 url: https://wsm.kmz-brno.cz/
 title: WSM
 description: A Wireless Speedometer
-# avatar: /assets/img/ogp.png
-# favicon: /favicon.ico
+avatar: /assets/img/icon.svg
+favicon: /assets/img/icon.ico
 author: Jan Horáček
 keywords: speed,meter,measure,model,train
 robots: index,follow
