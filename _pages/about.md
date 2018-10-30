@@ -15,4 +15,4 @@ In case of any questions, you may contact the autor at:
 
  * [jan.horacek@kmz-brno.cz](mailto:jan.horacek@kmz-brno.cz)
 
-We will add link to the thesis once it will be published.
+We will add a link to the thesis once it will be published.

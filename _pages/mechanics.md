@@ -16,7 +16,7 @@ order: 9
  * Axis with perforated wheel.
  * [GP1S23 opto sensor](http://static6.arrow.com/aropdfconversion/33ee6367e3f24c1538ff4b63e7c9272b758d9d51/tec_datasheet_gp1s23.pdf).
  * [Main PCB](https://github.com/kmzbrnoI/wsm-pcb) connected to sensor & battery.
- * Bluetooth module HC-05 connected to main PCB.
+ * Bluetooth module *HC-05* connected to main PCB.
 
 ## Recommendations
 

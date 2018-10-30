@@ -7,7 +7,7 @@ order: 20
 
 ![WSM Speed Reader application GUI](/assets/img/speed_reader_screenshot.png)
 
-WSM Speed Reader is a simple desktop application. It connects to the serial
+*WSM Speed Reader* is a simple desktop application. It connects to the serial
 port of the Wireless SpeedoMeter and displays its speed.
 
 This application is developed in [QT](https://www.qt.io/).
