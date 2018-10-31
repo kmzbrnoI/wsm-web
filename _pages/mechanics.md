@@ -5,7 +5,7 @@ permalink: /mechanics
 order: 9
 ---
 
-![WSM Mechanics](/assets/img/wsm-3d.png)
+![WSM Mechanics](/assets/img/wsm-3d-en.svg)
 
 ## Main parts
 
