@@ -47,7 +47,6 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jemoji
-  - jekyll-multiple-languages-plugin
 
 languages: ["en", "cz"]
 exclude_from_localizations: ["assets"]
