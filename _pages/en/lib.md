@@ -1,8 +1,10 @@
 ---
 layout: page
 title: WSM Library
-permalink: /lib
+permalink: /en/lib
 order: 23
+lang: en
+ref: lib
 ---
 
 If you want to integrate receiving of a speed from WSM into your application,

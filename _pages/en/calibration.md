@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Automatic Calibration
-permalink: /auto-calib
+permalink: /en/auto-calib
 order: 25
+lang: en
+ref: calibration
 ---
 
 ![Automatic Calibration application GUI](/assets/img/ac_progress.png)

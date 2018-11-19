@@ -1,8 +1,10 @@
 ---
 layout: page
 title: WSM PCB
-permalink: /pcb
+permalink: /en/pcb
 order: 10
+lang: en
+ref: pcb
 ---
 
 WSM uses 2 Printed Circuit Boards:

@@ -1,8 +1,10 @@
 ---
 layout: page
 title: PC Application
-permalink: /speed-reader
+permalink: /en/speed-reader
 order: 20
+lang: en
+ref: app
 ---
 
 ![WSM Speed Reader application GUI](/assets/img/speed_reader_screenshot.png)

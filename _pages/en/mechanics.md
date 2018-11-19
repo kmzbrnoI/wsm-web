@@ -1,8 +1,10 @@
 ---
 layout: page
 title: WSM Mechanics
-permalink: /mechanics
+permalink: /en/mechanics
 order: 9
+lang: en
+ref: mechanics
 ---
 
 ![WSM Mechanics](/assets/img/wsm-3d-en.svg)

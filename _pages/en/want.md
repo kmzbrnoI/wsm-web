@@ -1,8 +1,10 @@
 ---
 layout: page
 title: I want it!
-permalink: /want
+permalink: /en/want
 order: 30
+lang: en
+ref: want
 ---
 
 ## I want to try it!

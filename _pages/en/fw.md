@@ -1,8 +1,10 @@
 ---
 layout: page
 title: WSM Firmware
-permalink: /fw
+permalink: /en/fw
 order: 11
+lang: en
+ref: fw
 ---
 
 WSM uses *ATmega328p* as a main processor. The firmware is written in C

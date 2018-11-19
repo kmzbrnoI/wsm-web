@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About & References
-permalink: /about
+title: O projektu
+permalink: /cz/about
 order: 99
+lang: cz
+ref: about
 ---
+
+Český text tady
 
 This project was created by [Jan Horacek](https://apophis.cz/) as his bachelor
 thesis at the [Faculty of Informatics](https://fi.muni.cz/) [Masaryk
@@ -16,3 +20,4 @@ In case of any questions, you may contact the autor at:
  * [jan.horacek@kmz-brno.cz](mailto:jan.horacek@kmz-brno.cz)
 
 We will add a link to the thesis once it will be published.
+  - jekyll-multiple-languages-plugin
