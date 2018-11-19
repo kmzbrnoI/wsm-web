@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Home
+permalink: /en/index
 lang: en
 ref: index
-hide: true
 ---
 
 *WSM – A Wireless Speedometer* is a model railroad car which measures speed of a
