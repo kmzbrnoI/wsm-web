@@ -45,7 +45,7 @@
         }
     }
 
-    ul.icons {
+    ul.icons, ul.languages {
         @extend .clearfix;
         list-style: none;
         li {
@@ -57,5 +57,18 @@
                 padding: 0;
             }
         }
+    }
+
+    ul.languages {
+        margin-top: 0px;
+    }
+
+    ul.languages a {
+        width: 30px;
+        margin-right: 10px;
+    }
+
+    .flag {
+        width: 100%;
     }
 }

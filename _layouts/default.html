@@ -74,6 +74,9 @@
 
     <aside class="site-aside">
         <div class="inner">
+            <ul class="languages">
+                {% include languages.html %}
+            </ul>
             <ul style="margin-top:0px;">
                 {% assign pages = site.pages | where:"lang", page.lang | sort: 'order' %}
                 {% for page in pages %}
