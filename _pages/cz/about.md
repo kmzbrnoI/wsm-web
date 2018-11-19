@@ -7,17 +7,14 @@ lang: cz
 ref: about
 ---
 
-Český text tady
+Tento projekt vytvořil [Jan Horáček](https://apophis.cz/) v rámci své
+bakalářské práce na [Fakultě informatiky](https://fi.muni.cz/) [Masarykovy
+univerzity](https://muni.cz/) v Brně ve spolupráci s [Klubem modelářů železnic
+Brno I](https://kmz-brno.cz/) a [Laboratoří řízení kolejových
+vozidel](http://lrkv.pef.mendelu.cz/).
 
-This project was created by [Jan Horacek](https://apophis.cz/) as his bachelor
-thesis at the [Faculty of Informatics](https://fi.muni.cz/) [Masaryk
-University](https://muni.cz/) in Brno in cooperation with [Model Railroader
-Club in Brno](https://kmz-brno.cz/) and [Railway Vehicles
-Laboratory](http://lrkv.pef.mendelu.cz/) (pages available only in Czech).
-
-In case of any questions, you may contact the autor at:
+V případě jakýchkoliv otázek se neostýchejte kontaktovat autora
 
  * [jan.horacek@kmz-brno.cz](mailto:jan.horacek@kmz-brno.cz)
 
-We will add a link to the thesis once it will be published.
-  - jekyll-multiple-languages-plugin
+Po obhájení bakalářské práce zde bude doplněn odkaz na její text.
