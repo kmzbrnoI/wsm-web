@@ -3,11 +3,9 @@
 #
 url: https://wsm.kmz-brno.cz/
 title: WSM
-description: A Wireless Speedometer
 avatar: /assets/img/icon.svg
 favicon: /assets/img/icon.ico
 author: Jan Horáček
-keywords: speed,meter,measure,model,train,tt,wireless,speedometer
 robots: index,follow
 baseurl: ""
 
@@ -48,9 +46,6 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-languages: ["en", "cz"]
-exclude_from_localizations: ["assets"]
-
 #
 # !! Danger zone !!
 #
@@ -75,3 +70,11 @@ exclude:
   - README.md
   - vendor
   - Makefile
+
+t:
+  en:
+    description: "A Wireless Speedometer"
+    keywords: speed,meter,measure,model,train,tt,wireless,speedometer
+  cz:
+    description: "Bezdrátový měřicí vůz"
+    keywords: rychlost,tachometr,senzor,model,vlak,tt,Bluetooth,kalibrace
