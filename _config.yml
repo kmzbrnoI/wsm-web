@@ -45,6 +45,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 
 #
 # !! Danger zone !!
