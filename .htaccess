@@ -1,1 +1,10 @@
 ErrorDocument 404 /404.html
+
+Redirect temp /about /en/about
+Redirect temp /auto-calib /en/auto-calib
+Redirect temp /fw /en/fw
+Redirect temp /lib /en/lib
+Redirect temp /mechanics /en/mechanics
+Redirect temp /pcb /en/pcb
+Redirect temp /speed-reader /en/speed-reader
+Redirect temp /want /en/want
