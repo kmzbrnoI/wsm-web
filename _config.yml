@@ -51,7 +51,10 @@ plugins:
 # !! Danger zone !!
 #
 
-include: ["_pages", ".htaccess"]
+include: [
+    "_pages",
+    ".htaccess",
+]
 
 markdown: kramdown
 kramdown:

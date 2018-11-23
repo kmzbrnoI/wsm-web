@@ -1,4 +1,4 @@
-ErrorDocument 404 /404.html
+ErrorDocument 404 /en/404.html
 
 Redirect temp /about /en/about
 Redirect temp /auto-calib /en/auto-calib
