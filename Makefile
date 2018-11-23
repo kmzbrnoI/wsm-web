@@ -6,3 +6,5 @@ server:
 
 clean:
 	rm -rf _site
+
+.PHONY: build server clean
