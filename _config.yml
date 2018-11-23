@@ -76,6 +76,8 @@ t:
   en:
     description: "A Wireless Speedometer"
     keywords: speed,meter,measure,model,train,tt,wireless,speedometer
+    footer: "<a href='https://github.com/kmzbrnoI/wsm-web'>This page</a> was created by <a href='http://apophis.cz/'>Jan Horáček</a> using <a href='http://jekyllrb.com'>Jekyll</a> with style <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
   cz:
     description: "Bezdrátový měřicí vůz"
     keywords: rychlost,tachometr,senzor,model,vlak,tt,Bluetooth,kalibrace
+    footer: "<a href='https://github.com/kmzbrnoI/wsm-web'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
