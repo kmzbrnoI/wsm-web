@@ -10,7 +10,8 @@ ref: app
 ![GUI aplikace WSM Speed Reader](/assets/img/speed_reader_screenshot.png)
 
 *WSM Speed Reader* je jednoduchá desktopová aplikace umožňující zobrazovat
-naměřenou rychlost. Aplikace se pomocí sériového portu připojuje k vozu WSM.
+naměřenou rychlost. Aplikace se pomocí Bluetooth SPP profilu připojuje k vozu
+WSM.
 
 Aplikace je vyvíjena ve frameworku [QT](https://www.qt.io/).
 
@@ -18,4 +19,4 @@ Aplikace je plně opensource, veškeré zdrojové kódy jsou dostupné na server
 GitHub.
 
  * [Repozitář](https://github.com/kmzbrnoI/wsm-speed-reader)
- * [Releases](https://github.com/kmzbrnoI/wsm-speed-reader/releases)
+ * [Spustitelné soubory ke stažení](https://github.com/kmzbrnoI/wsm-speed-reader/releases)
