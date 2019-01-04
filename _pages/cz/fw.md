@@ -10,7 +10,7 @@ ref: fw
 Hlavním procesorem využívaným v měřicím vozu WSM je *ATmega328p*. Firmware
 do tohoto procesoru je psán v jazyce C a je plně opensource.
 
- * [Repozitř se zdrojovými kódy](https://github.com/kmzbrnoI/wsm-fw)
+ * [Repozitář se zdrojovými kódy](https://github.com/kmzbrnoI/wsm-fw)
  * [Popis firmwaru](https://github.com/kmzbrnoI/wsm-fw)
  * [Popis komunikačního protokolu](https://github.com/kmzbrnoI/wsm-fw/blob/master/protocol.md)
 

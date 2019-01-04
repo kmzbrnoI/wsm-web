@@ -17,14 +17,14 @@ uchytit senzor, veškerá logika je obsažena v hlavní DPS.
 
  * [Repozitář s materiály pro výrobu](https://github.com/kmzbrnoI/wsm-pcb)
 
-Měřicí vůz je připrav na napájení z 3,7V LiPol baterie. Součástí DPS je
+Měřicí vůz je připraven na napájení z 3,7V LiPol baterie. Součástí DPS je
 nabíjecí obvod, takže baterii není třeba nabíjet externě. Stačí připojit
-micro-USB konektor a nabíjet. Měření rychlost je založeno na optozávoře
+micro-USB konektor a nabíjet. Měření rychlosti je založeno na optozávoře *GP1S23*
 snímající otáčející se perforované kolo uchycené na nápravě vozu. Naměřená data
 jsou pomocí Bluetooth modulu *HC-05* přenášena do libovolného Bluetooth klienta
 podporujícího profil *SPP*.
 
-Deska plošných spojů je navržena v programu Eaggle 9, schémata a výkresy DPS
+Deska plošných spojů je navržena v programu Eagle 9, schémata a výkresy DPS
 jsou volně k dispozici pod licencí *Apache License v2.0*.
 
 Materiály pro výrobu jsou k dispozici
