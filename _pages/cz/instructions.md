@@ -12,7 +12,7 @@ ref: mechanics
  * Samotný vůz WSM.
  * Počítač.
  * Možnost připojit k počítači Bluetooth zařízení. Notebooky mají Bluetooth
-   adaptér často vestavěný, pro připojení k desktopu můžete zakoupit jakýkoliv
+   adaptér často vestavěný, pro připojení k desktopu můžete zakoupit jakýkoliv
    Bluetooth dongle, například [tento](https://www.tsbohemia.cz/gembird-usb-bluetooth-v4-0-dongle_d253531.html).
    Pro komunikaci stačí Bluetooth verze alespoň 2.0.
  * Stáhnutý software [WSM Speed Reader](/cz/speed-reader).
@@ -39,15 +39,15 @@ Vůz bývá osazován Li-Pol bateriemi o kapacitě 500–650 mAh.
 
 ## Signalizace stavu vozu
 
-Vůz obsahuje 4 LED diody: zelenou, žlutou, červenou a modrou.
+Vůz obsahuje 4 LED diody: zelenou, žlutou, červenou a modrou.
 
 * **Modrá LED** indikuje nabíjení baterie. LED by se měla rozsvítit po
   připojení nabíjecího USB konektoru. LED zhasne, jakmile je baterie nabitá.
 * **Oranžová LED** změní svůj stav při každém detekované náběžné hraně na optickém
   senzoru měřícím rychlost. Na jednu otáčku osmidírkového perforovaného kola by
-  se tak LED měla 4× rozsvítit a 4× zhasnout.
-* **Zelená LED** krátce problikne jednou za 5 vteřin a indikuje správný chod
-  zařízení. Konkrétně LED problikává v momentě, kdy dochází k měření napětí
+  se tak LED měla 4× rozsvítit a 4× zhasnout.
+* **Zelená LED** krátce problikne jednou za 5 vteřin a indikuje správný chod
+  zařízení. Konkrétně LED problikává v momentě, kdy dochází k měření napětí
   baterie.
 * **Červená LED** indikuje nízký stav baterie vozu.
 
@@ -66,12 +66,12 @@ podvybitím. Vybitý vůz je třeba nabít.
 
 V počítači je třeba zapnout Bluetooth adaptér, zapnout měřicí vůz a naskenovat
 dostupná Bluetooth zařízení. Mezi zařízeními by se mělo objevit zařízení
-*WSM-xx* (např. *WSM-05*), s tímto zařízením se spárujte. Při párování je třeba
+*WSM-xx* (např. *WSM-05*), s tímto zařízením se spárujte. Při párování je třeba
 zadat čtyřmístný PIN, který je napsaný na komunikačním modulu měřicího vozu.
 
 Po spárování by se měl vůz připojit jako sériový port. Po spuštění aplikace
 [WSM Speed Reader](/cz/speed-reader) vyberte název COM portu, měřítko a průměr
-kola vozu. Připojte se k COM portu.
+kola vozu. Připojte se k COM portu.
 
 Pokud vůz funguje, šedé kolečko by mělo blikat a měla by být průběžně
 zobrazována aktuální rychlost.
