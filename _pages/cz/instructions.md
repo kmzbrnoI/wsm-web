@@ -28,7 +28,7 @@ Vůz je napájen výhradně Li-Pol baterií.
 * Vůz se zapíná stiskem tlačítka označeného zeleným štítkem na hlavní DPS.
 * Vůz se vypíná stiskem tlačítka označeného červeným štítkem na hlavní DPS.
 
-Vůz vydrží v provozu přibližně 10 hodin, po dokončení používání vůz vypínejte,
+Vůz vydrží v provozu přibližně 14 hodin, po dokončení používání vůz vypínejte,
 aby se baterie zbytečně neopotřebovávala. Vůz je možné kdykoliv dobít připojením
 5V micro-USB adaptéru podobně, jako nabíjíte třeba svůj mobilní telefon. Spotřeba
 nabíjení je přibližně 200–400 mA, není tedy třeba žádné speciální silné
@@ -75,3 +75,12 @@ kola vozu. Připojte se k COM portu.
 
 Pokud vůz funguje, šedé kolečko by mělo blikat a měla by být průběžně
 zobrazována aktuální rychlost.
+
+## Měření rychlosti
+
+ * Vůz je typicky schopen měřit modelové rychlosti v rozsahu cca 4–140 km/h
+   (v závislosti na konstrukci perforovaného kola, měřítku, ...).
+ * Pro přesné měření rychlosti vůz spojte s lokomotivou co nejpevněji.
+   **Použijte co nejpevnější spřáhla**. Osvědčená spřáhla jsou:
+    - TT: [pevná spřáhla Tillig](https://www.itvlaky.cz/sprahla/1-par-pevna-sprahla-do-sachty-nem-tj--v-baleni-2-ks--tillig-08828x/),
+    - H0: [spřáhlo Roco profi](https://www.itvlaky.cz/sprahla/h0-sprahlo-roco-profi--pro-sachtu-nem-362--4ks-roco-40270/).
