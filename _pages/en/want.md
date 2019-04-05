@@ -15,6 +15,9 @@ Brno](https://kmz-brno.cz/), Czech Republic. Just send an e-mail to the
 
 ## I want to buy it!
 
-Currently, there is no option of purchasing a WSM as a packaged single piece of
-hardware officially. However, the [author](/en/about) usually has some spare
-parts, so you may contact him and hopefully arrange a purchase.
+Contact the [author](/en/about), he sometimes creates a series of WSMs.
+
+## I want to build it!
+
+No problem, all materials are opensource. All links are in project's parts (use
+the menu on right). You may download it and create the WSM yourself.

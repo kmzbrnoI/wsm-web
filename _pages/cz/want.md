@@ -15,6 +15,9 @@ a můžeme si domluvit setkání.
 
 ## Chci si koupit měřicí vůz
 
-Měřicí vůz momentálně nenabízíme jako all-in-one řešení. Můžete si stáhnout
-materiály pro výrobu a vůz si vyrobit, případně napsat [autorovi](/cz/about),
-který obvykle má k dispozici několik kusů.
+Napište [autorovi](/cz/about), čas od času se pár kusů vyrábí.
+
+## Chci si vyrobit měřicí vůz
+
+Všechny materiály pro výrobu jsou opensource na stránkách jednotlivých částí
+(vpravo). Můžete si je stáhnout a vůz podle nich vyrobit.
