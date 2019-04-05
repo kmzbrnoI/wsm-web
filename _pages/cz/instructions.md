@@ -84,3 +84,19 @@ zobrazována aktuální rychlost.
    **Použijte co nejpevnější spřáhla**. Osvědčená spřáhla jsou:
     - TT: [pevná spřáhla Tillig](https://www.itvlaky.cz/sprahla/1-par-pevna-sprahla-do-sachty-nem-tj--v-baleni-2-ks--tillig-08828x/),
     - H0: [spřáhlo Roco profi](https://www.itvlaky.cz/sprahla/h0-sprahlo-roco-profi--pro-sachtu-nem-362--4ks-roco-40270/).
+
+## Přesná kalibrace
+
+Pro měření rychlosti je nutné do měřicího SW zadat průměr modelového kola vozu
+a to ideálně s přesností na setinu milimetru. Pro skutečně precizní kalibraci
+je možné průměr kola změřit jízdou vozu:
+
+ 1. Připravte vůz s lokomotivou na rovnou kolej (alespoň 1 m; čím delší, tím
+    lepší). Zadejte přibližný průměr kola.
+ 2. Připojte měřicí SW, proveďte _reset_ ujeté vzdálenosti.
+ 3. Popojeďte s vozem o přesnou vzdálenost (například natáhněte svinovací metr
+    vedle kolejí).
+ 4. Z počtu kmitů senzoru (číslo v závorce vedle ujeté vzdálenosti) zpětně
+    dopočítejte průměr kola dle vztahu:
+    `wheel_diameter = (8 · real_distance) / (pi · ticks_count)`.
+ 5. Pro další měření použijte dopočítaný průměr kola.
