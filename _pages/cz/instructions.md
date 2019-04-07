@@ -10,7 +10,7 @@ ref: mechanics
 ## Co je třeba ke zprovoznění vozu
 
  * Samotný vůz WSM.
- * Počítač.
+ * Počítač s OS Windows/Linux. V případě OS Windows minimálně Windows Vista.
  * Možnost připojit k počítači Bluetooth zařízení. Notebooky mají Bluetooth
    adaptér často vestavěný, pro připojení k desktopu můžete zakoupit jakýkoliv
    Bluetooth dongle, například [tento](https://www.tsbohemia.cz/gembird-usb-bluetooth-v4-0-dongle_d253531.html).
