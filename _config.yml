@@ -43,7 +43,6 @@ permalink: pretty
 # Plugins.
 #
 plugins:
-  - jekyll-paginate
   - jemoji
   - jekyll-sitemap
 
