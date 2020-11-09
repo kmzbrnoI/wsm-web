@@ -8,3 +8,8 @@ Redirect temp /mechanics /en/mechanics
 Redirect temp /pcb /en/pcb
 Redirect temp /speed-reader /en/speed-reader
 Redirect temp /want /en/want
+
+## Rewriting url for CZ browser
+RewriteEngine on
+RewriteCond %{HTTP:Accept-Language} ^cs [NC]
+RewriteRule ^$ /cz/ [R=307,L]
