@@ -18,5 +18,5 @@ Aplikace je vyvíjena ve frameworku [QT](https://www.qt.io/).
 Aplikace je plně opensource, veškeré zdrojové kódy jsou dostupné na serveru
 GitHub.
 
- * [Repozitář](https://github.com/kmzbrnoI/wsm-speed-reader)
- * [Spustitelné soubory ke stažení](https://github.com/kmzbrnoI/wsm-speed-reader/releases)
+<a class="btn" href="https://github.com/kmzbrnoI/wsm-speed-reader/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/wsm-speed-reader">Zdrojové kódy</a>

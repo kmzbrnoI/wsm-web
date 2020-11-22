@@ -22,5 +22,5 @@ postupně automaticky nastavit výkony jednotlivým jízdním stupňům. Aplikac
 připojuje k vozu WSM a k centrále XpressNET a provádí proces kalibrace
 automaticky.
 
-Více informací je k dispozici v [projektové
-dokumentaci](https://github.com/kmzbrnoI/automatic-calibration).
+<a class="btn" href="https://github.com/kmzbrnoI/automatic-calibration/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/automatic-calibration">Zdrojové kódy</a>

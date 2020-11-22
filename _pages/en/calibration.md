@@ -20,5 +20,5 @@ automatically.
 The application connects to the WSM and XpressNET command station and simply
 performs calibration fully automatically and precisely.
 
-You may see more information in [project
-repository](https://github.com/kmzbrnoI/automatic-calibration).
+<a class="btn" href="https://github.com/kmzbrnoI/automatic-calibration/releases">Download</a>
+<a class="btn" href="https://github.com/kmzbrnoI/automatic-calibration">Source codes</a>

@@ -16,5 +16,5 @@ This application is developed in [QT](https://www.qt.io/).
 
 The application is opensource, all source codes are available at GitHub.
 
- * [Repository](https://github.com/kmzbrnoI/wsm-speed-reader)
- * [Releases](https://github.com/kmzbrnoI/wsm-speed-reader/releases)
+<a class="btn" href="https://github.com/kmzbrnoI/wsm-speed-reader/releases">Download</a>
+<a class="btn" href="https://github.com/kmzbrnoI/wsm-speed-reader">Source codes</a>
